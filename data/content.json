@@ -1,0 +1,18 @@
+{
+  "services": [
+    {
+      "title": "",
+      "description": "",
+      "icon": "",
+      "linkText": "Reservar →",
+      "linkUrl": "#contacto"
+    }
+  ],
+  "gallery": [
+    {
+      "label": "",
+      "imageUrl": "",
+      "variation": ""
+    }
+  ]
+}
