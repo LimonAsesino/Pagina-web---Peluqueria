@@ -1,18 +1,86 @@
 {
   "services": [
     {
-      "title": "",
-      "description": "",
+      "title": "Keratina",
+      "description": "Aplicacion y planchado de keratina para alisar y nutrir el cabello.",
       "icon": "",
       "linkText": "Reservar →",
       "linkUrl": "#contacto"
-    }
-  ],
-  "gallery": [
+    },
     {
-      "label": "",
-      "imageUrl": "",
-      "variation": ""
+      "title": "Blower",
+      "description": "Peinado con secado profesional para un acabado liso, brillante y duradero.",
+      "icon": "",
+      "linkText": "Reservar →",
+      "linkUrl": "#contacto"
+    },
+    {
+      "title": "Rallitos",
+      "description": "Iluminaciones personalizadas que aportan luz, dimensión y estilo al cabello.",
+      "icon": "",
+      "linkText": "Reservar →",
+      "linkUrl": "#contacto"
+    },
+    {
+      "title": "Laminados",
+      "description": "Laminado de cejas para lograr un acabado definido, uniforme y natural.",
+      "icon": "",
+      "linkText": "Reservar →",
+      "linkUrl": "#contacto"
+    },
+    {
+      "title": "Cejas",
+      "description": "Diseño y definición de cejas para resaltar la armonía de tu rostro.",
+      "icon": "",
+      "linkText": "Reservar →",
+      "linkUrl": "#contacto"
+    },
+    {
+      "title": "Pestañas",
+      "description": "Realce de pestañas para una mirada más expresiva y elegante.",
+      "icon": "",
+      "linkText": "Reservar →",
+      "linkUrl": "#contacto"
+    },
+
+    {
+      "title": "Hidrataciones Capilares",
+      "description": "Tratamientos que restauran la hidratación, suavidad y brillo del cabello..",
+      "icon": "",
+      "linkText": "Reservar →",
+      "linkUrl": "#contacto"
+    },
+
+    {
+      "title": "Depilación con Cera",
+      "description": "Eliminación del vello con un acabado suave y de larga duración.",
+      "icon": "",
+      "linkText": "Reservar →",
+      "linkUrl": "#contacto"
+    },
+
+    {
+      "title": "Maquillaje para Todo Tipo de Ocasiones",
+      "description": "Maquillaje profesional adaptado a cada evento y estilo personal.",
+      "icon": "",
+      "linkText": "Reservar →",
+      "linkUrl": "#contacto"
+    },
+
+    {
+      "title": "Peinados",
+      "description": "Peinados personalizados para cualquier ocasión, desde lo clásico hasta lo moderno.",
+      "icon": "",
+      "linkText": "Reservar →",
+      "linkUrl": "#contacto"
+    },
+
+    {
+      "title": "Limpiezas Faciales",
+      "description": "Tratamiento facial para limpiar, revitalizar y cuidar la salud de tu piel.",
+      "icon": "",
+      "linkText": "Reservar →",
+      "linkUrl": "#contacto"
     }
   ]
 }
